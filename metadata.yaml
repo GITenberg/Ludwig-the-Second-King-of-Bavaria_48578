@@ -1,15 +1,21 @@
 _repo: Ludwig-the-Second-King-of-Bavaria_48578
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Hearn, Ethel Harriet
     gutenberg_agent_id: '25101'
     url: http://www.gutenberg.org/2009/agents/25101
+covers:
+- cover_type: archival
+  image_path: 48578-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Tschudi, Clara
     gutenberg_agent_id: '44863'
     url: http://www.gutenberg.org/2009/agents/44863
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48578#Ludwig-the-Second-King-of-Bavaria
 gutenberg_issued: '2015-03-24'
 gutenberg_type: Text
 identifiers:
